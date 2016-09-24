@@ -1,0 +1,41 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #990000;
+}
+li {
+    float: left;
+}
+li a {
+	padding-left: 100px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+
+h1{
+	padding-left: 200px;
+	font-style: italic;
+	color: #b30000;
+}
+body{
+    background-image: url("contact.jpg");
+	background-size: 1400px 800px;
+}
+
+form{
+	padding-top: 130px;
+	padding-left: 180px;
+}
+footer{
+	padding-top: 30px;
+	padding-left: 280px;
+	color: #1a0000;
+	font-weight:bold; 
+	
+}
